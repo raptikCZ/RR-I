@@ -7,6 +7,7 @@ because some strange accident, i lost very important file with functions. i will
 ====
 
 Frame : ALU profile 30x30mm
+ - designed for profile from ehlinik.cz with lock system - there is no STL for plastik profile join parts !!!
 
 mounting of plastic parts: M6 bolts
 
